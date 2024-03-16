@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Apples!"
+date:   2024-03-16 11:06:46 -0400
+categories: [Fruit, Many Things]
+---
+Apples
